@@ -1,11 +1,13 @@
 # clemson-ece-2230-grading
 ## Ryan Barker and Dr. Harlan Russell
 This is a private grading repository for the ECE-2230 course located here:
+
 https://github.com/clemson-ece-2230
 
 The grading scripts located here are NOT visible to students.
 
 GitHub Classroom's CLI is a useful starting point for grading at scale, though it has several limitations:
+
 https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/using-github-classroom-with-github-cli
 
 This extension package leverages GitHub submodules to address these challenges, enabling efficient bulk grading operations at scale.
