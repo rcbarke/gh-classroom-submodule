@@ -1,4 +1,4 @@
-# clemson-ece-2230-grading
+# gh-classroom-submodule extension
 ## Ryan Barker and Dr. Harlan Russell
 This is a private grading repository for the ECE-2230 course located here:
 
